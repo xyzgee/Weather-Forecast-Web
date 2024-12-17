@@ -1,3 +1,3 @@
-#Weather-Forecasting-Website
+#WEATHER-FORECASTING-WEB
 ------------------------------------------
-This repo consists of a prototype for creating a web application based on weather forecasting which is based on OpenWeather API
+A weather forecasting website which is used to display the present weather data by giving the input on different cities. It is built using HTML, CSS and JavaScript and OpenWeatherAPI (an open-source api which fetches the entire weather data from its server)
